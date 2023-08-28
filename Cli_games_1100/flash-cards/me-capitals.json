@@ -1,0 +1,33 @@
+{
+    "cards" : [
+        {
+            "q": "Hello" , 
+            "a": "Bonjour"
+        },
+        {
+            "q": "Goodbye" ,
+            "a": "Au revoir"
+        },
+        {
+            "q": "Thank you" , 
+            "a": "Merci"
+        },
+        {
+            "q": "I would like..." , 
+            "a": "Je voudrais..."
+        },
+        {
+            "q": "Please" , 
+            "a": "S'il te plait"
+        },
+        {
+            "q": "Im going to..." , 
+            "a": "Je vais..."
+        },
+        {
+            "q": "I need directions to..." , 
+            "a": "J'ai besoin d'itinéraires pour..."
+        }
+
+    ]
+}
