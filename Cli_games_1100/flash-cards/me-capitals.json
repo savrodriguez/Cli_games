@@ -1,32 +1,32 @@
 {
     "cards" : [
         {
-            "q": "Hello" , 
+            "q": "French for: Hello" , 
             "a": "Bonjour"
         },
         {
-            "q": "Goodbye" ,
+            "q": "French for: Goodbye" ,
             "a": "Au revoir"
         },
         {
-            "q": "Thank you" , 
+            "q": "French for: Thank you" , 
             "a": "Merci"
         },
         {
-            "q": "I would like..." , 
-            "a": "Je voudrais..."
+            "q": "French for: I would like" , 
+            "a": "Je voudrais"
         },
         {
-            "q": "Please" , 
+            "q": "French for: Please" , 
             "a": "S'il te plait"
         },
         {
-            "q": "Im going to..." , 
-            "a": "Je vais..."
+            "q": "French for: Im going to" , 
+            "a": "Je vais"
         },
         {
-            "q": "I need directions to..." , 
-            "a": "J'ai besoin d'itinéraires pour..."
+            "q": "French for: I need directions to" , 
+            "a": "J'ai besoin d'itinéraires pour"
         }
 
     ]
